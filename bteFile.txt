@@ -1,0 +1,3 @@
+                           WELCOME TO MY TEXT EDITOR!!
+                 This text editor takes a file from your computer, 
+       opens the file for reading and finally shows the contents here.

@@ -1,0 +1,14 @@
+[{"surname": "James", "dad": "Boluwatife", "dadAge": 54, "mum": "Chidinma", "mumAge": 45, "children": [["Lola", 23], ["Chisom", 17], ["Diana", 8]]},
+
+
+
+  {"surname": "Okoro", "dad": "Hassan", "dadAge": 32, "mum": "Benedicta", "mumAge": 27, "children": [["Ife", 4]]},
+
+
+  {"surname": "Gambo", "dad": "Jaminu", "dadAge": 43, "mum": "Binta", "mumAge": 34, "children": [["Namiba", 7]]},
+
+
+  {"surname": "uba", "dad": "Kabiru", "dadAge": 45, "mum": "Binta", "mumAge": 34, "children": [["Bakwo", 7]]},
+
+
+  {"surname": "Cain", "dad": "Abel", "dadAge": 70, "mum": "Eve", "mumAge": 67, "children": [["Adam", 34]]}]

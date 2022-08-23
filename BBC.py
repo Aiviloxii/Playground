@@ -1,0 +1,10 @@
+from BestBrains import SenStudent
+a = input("Enter your fullname: ")
+b = int(input("Enter your age: "))
+c = input("Enter your gender: ")
+d = input("Enter your guardian name: ")
+e = int(input("Enter your class\n[SSS1= 1, SSS2= 2, SSS3= 3]: "))
+f = input("Enter your partition[ Art or Science]: ")
+student = SenStudent(a,b,c,d,e,f)
+print(f"Welcome {student.fullname} to {student.name} ")
+print(f"These are your subjects:{student.subjectList} ")
